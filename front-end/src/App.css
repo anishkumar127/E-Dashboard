@@ -14,7 +14,32 @@
   padding:5px;
 }
 
+.footer{
+  position: absolute;
+  bottom:0;
+  background-color:skyblue;
+  width:100%;
+  text-align:center;
+}
 
+.register{
+  margin-left:30%;
+}
+.inputBox{
+  padding:7px;
+  display:block;
+  border:1px solid skyblue;
+  width:300px;
+  margin:20px;
+}
+.appButton{
+  margin:20px;
+  width:150px;
+  padding:10px;
+  background-color:skyblue;
+  border:solid 1px;
+  cursor: pointer;
+}
 
 .App-logo {
   height: 40vmin;
